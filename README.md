@@ -6,9 +6,9 @@ _**Code Platform: MATLAB, Opendtect**_
 
 >**Output Sample.**
 
-![](/Images/Screenshot_1.jpg)
+![](/Images/Screenshot_1.png)
 
-![](/Images/Screenshot_2.jpg)
+![](/Images/Screenshot_2.png)
 
 ------------------------------------------------------------------------------------------
 **References**:
